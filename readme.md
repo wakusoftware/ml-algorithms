@@ -69,4 +69,4 @@ Special thanks to:
 
 ---
 
-Made with :heart: by Daniel Boza(https://github.com/wakusoftware)
+Made by Daniel Boza(https://github.com/wakusoftware)
