@@ -1,6 +1,8 @@
-# Machine Learning Algorithms Portfolio
+# Machine Learning Algorithms
 
 This repository contains a collection of Jupyter Notebooks detailing a wide range of machine learning algorithms. Each notebook provides an in-depth exploration of an algorithm, from its mathematical foundations to its practical implementations and use cases.
+
+I made this repo as a consulting reference and cheat-sheet.
 
 ## Table of Contents
 
